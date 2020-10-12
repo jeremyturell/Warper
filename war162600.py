@@ -282,19 +282,19 @@ def new_player():
     
     c = continued()
     print(c)
-    #why does it say none here
+    
     
     print("\n")
     
     e_w162 = explain_war162()
     print(e_w162)
-        #why does it say none here
+        
         
     print("\n")
     
     pa_o_g = pa_or_g()
     print(pa_o_g)
-    #why does it say none here
+    
     print("\n")
     
     
@@ -337,7 +337,7 @@ def finished():
 def the_finale():
     
     
-    # why does it say none here?
+    
     w_w_w = what_is_war()
     print(w_w_w)
     
@@ -355,19 +355,18 @@ def the_finale():
     
     c = continued()
     print(c)
-    #why does it say none here
+    
     
     print("\n")
     
     e_w162 = explain_war162()
     print(e_w162)
-        #why does it say none here
+       
         
     print("\n")
     
     pa_o_g = pa_or_g()
     print(pa_o_g)
-    #why does it say none here
     print("\n")
     
     
@@ -378,6 +377,9 @@ def the_finale():
     f = finished()
     print(f)
     
+
+    
+  ##run this function to run the entire program  
 the_finale()
     
     
