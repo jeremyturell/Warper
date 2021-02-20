@@ -1,5 +1,5 @@
 # war_per
-With the initial goal in mind of proving that Aaron Judge is the 2nd best active position when he is on the field player in MLB, I decided to use my python skills and knowledge of the Pandas module to make my case.
+With the initial goal in mind of proving that Aaron Judge is the 2nd best active position player when he is on the field in MLB, I decided to use my python skills and knowledge of the Pandas module to make my case.
 
 First I took player data from all qualified position players after 2010. Due to Aaron Judge's injury histroy, his WAR (Wins Above Replacement) is not as high as some of his other peers due to the fact it is a cumulative statistic.
 
